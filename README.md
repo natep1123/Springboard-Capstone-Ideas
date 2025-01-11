@@ -13,9 +13,9 @@ Bringing together reports for both terrestrial and astronimcal weather, an app t
 ### Summary: 
 App to locate nearby hiking trails while also gathering a weather report for the area so that hikers can make more informed decisions about where to hike. Features include warnings to not hike areas that are experiencing poor weather conditions, best times to hike for best weather and gear/equipment recommendations for preparedness.
 ### Problem: 
-It can be hard to find the best hike when weather is unpredictable, making it even more difficult for hikers to stay prepared and make informed decisions about when to hike, whether or not it is safe and what equipment may be best suited for the terrain and conditions. 
+It can be hard to find the best hikes when weather is unpredictable, making it even more difficult for hikers to stay prepared and make informed decisions about when and where to hike. Informed decisions also include whether or not it is safe and what equipment may be best suited for the terrain/conditions. 
 ### Solution: 
-An app to generate local hiking trails and also a local weather report for each trail so that hikers can make real-time compparisons of trails to make the most informed decisions! Find the best hikes for cloudy days or sunny days, or see an alert to reconsider hiking certain trails if their local winds speeds are too high or weather is otherwise hazardous. Find safe alternative hikes recommended if the weather is hazardous for others.
+An app to generate local hiking trails and also a local weather reporting for each trail so that hikers can make real-time comparisons of trails to make the most informed decisions! Find the best hikes for cloudy days or sunny days, or see an alert to avoid certain trails if their local winds speeds are too high or weather is otherwise hazardous. Also recommend safe alternative hikes if the weather is hazardous for others.
 
 ## Idea 3: 
 ### Summary: 
