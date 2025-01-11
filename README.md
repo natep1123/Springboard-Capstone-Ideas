@@ -3,7 +3,7 @@
 ## Idea 1: Weather App with Astronomy Tracking
 This is my favorite idea. This is an idea I have had for a long time and always hoped someone would build it.
 ### Summary:
-Use public weather and astronomy APIs to make a one-page display of the user's local weather, but also moon phase tracking, sky visibility rating, constellations overhead, and cloud coverage. Features include: current local weather status, 10-day local forecast, moon phase tracking, cloud coverage report, constellation report with star visibility rating and reports of upcoming astronomical events like eclipses and meteor showers.
+App with one-page display of reports for the user's local weathermoon phase tracking, sky visibility rating, constellations overhead, and cloud coverage. Features include: current local weather status, 10-day local forecast, moon phase tracking, cloud coverage report, constellation report with star visibility rating and reports of upcoming astronomical events like eclipses and meteor showers.
 ### Problem: 
 For those with passion for astronomy, a standard weather app is not enough. They lack astronomical-tracking features such as moon phases, visibility rating for the night sky, reports about upcoming significant astronomical events, and constellation tracking for which constellations are in the sky. 
 ### Solution: 
