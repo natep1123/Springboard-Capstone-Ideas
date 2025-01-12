@@ -23,3 +23,9 @@ An app to generate local hiking trails and also a local weather reporting for ea
 ### Problem: 
 
 ### Solution: 
+
+## Idea Pool
+### 1. Travel Roulette:
+App to offer travel reroutes based on user preferences. (Ex. someone wants to travel from Kentucky to Nevada; they input their desired/starting locations and the app provides 1: the fastest routes with on-the-way actuvity/site suggestions, and 2: reroutes that add up to [user-input] hours with more specific activity/site recommendations based on preferences.
+### 2. Personal Planner with Timezone Syncer:
+App for nomads to do their personal planning and task management which automatically updates tasks/events based on current time-zone.
