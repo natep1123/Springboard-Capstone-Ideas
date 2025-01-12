@@ -17,15 +17,10 @@ It can be hard to find the best hikes when weather is unpredictable, making it e
 ### Solution: 
 An app to generate local hiking trails and also a local weather reporting for each trail so that hikers can make real-time comparisons of trails to make the most informed decisions! Find the best hikes for cloudy days or sunny days, or see an alert to avoid certain trails if their local winds speeds are too high or weather is otherwise hazardous. Also recommend safe alternative hikes if the weather is hazardous for others.
 
-## Idea 3: 
+## Idea 3: Roadtrip Roulette
 ### Summary: 
-
+App to offer roadtrip reroutes based on user preferences for activities/sites along the way. (Ex. user inputs their desired- and starting-locations and the app provides 1: the fastest route with "on-the-way" activity/site suggestions (or none) as a baseline for comparison, and 2: a selection of other possible routes that visit different sites/attractions complete with the total time it would add compared to the fastest route. All recommended stops tailored to user interests.
 ### Problem: 
-
+Roadtrips can be boring and planning a fun roadtrip with activities and ssites along the way can be quite time consuming.
 ### Solution: 
-
-## Idea Pool
-### 1. Travel Roulette:
-App to offer travel reroutes based on user preferences for activities/sites along the way. (Ex. someone wants to travel from Kentucky to Nevada; they input their desired/starting locations and the app provides 1: the fastest routes with on-the-way actuvity/site suggestions, and 2: reroutes that add up to [user-input] hours with more specific activity/site recommendations based on preferences.
-### 2. Personal Planner with Timezone Syncer:
-App for nomads/travelers to do their personal planning and task management. It automatically updates tasks/events based on current time-zone.
+This app would make planning a roadtrip easy and fun. It would connect users with routes that not only route them to their destination, but also provides fun stops along the way tailored to their interests.
