@@ -13,11 +13,11 @@ I could use OpenWeatherMap API for all the weather data. There are a few free as
 
 ## Idea 2: Roadtrip Roulette
 ### Summary: 
-App to offer roadtrip reroutes based on user preferences for activities/sites along the way. (Ex. user inputs their desired- and starting-locations and the app provides 1: the fastest route with "on-the-way" activity/site suggestions (or none) as a baseline for comparison, and 2: a selection of other possible routes that visit different sites/attractions complete with the total time it would add compared to the fastest route. All recommended stops tailored to user interests.
+App to offer roadtrip reroutes based on user preferences for activities/sites along the way. (Ex. user inputs their desired- and starting-locations and the app provides 1: the fastest route with "on-the-way" activity/site suggestions (or none) as a baseline for comparison, and 2: a selection of other possible routes that visit different sites/attractions complete with the total time it would add compared to the fastest route. All of the recommended stops tailored to user interests; potentially a questionaire on account setup for things like "Do you prefer mountains or beach? Do you prefer national parks or amusement parks?..."
 ### Problem: 
-Roadtrips can be boring and planning a fun roadtrip with activities and ssites along the way can be quite time consuming.
+Roadtrips can be boring and planning a fun roadtrip with activities along the way can be quite time consuming.
 ### Solution: 
-This app would make planning a roadtrip easy and fun. It would connect users with routes that not only route them to their destination, but also provides fun stops along the way tailored to their interests.
+This app would make planning a roadtrip easy and fun. It would connect users with routes that not only get them to their destination, but also provides fun stops along the way tailored to their interests.
 
 ## Idea 3: Trail Finder App with Weather Companion
 ### Summary: 
