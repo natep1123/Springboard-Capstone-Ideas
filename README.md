@@ -9,7 +9,7 @@ Weather apps tend to make astronomical data a second priority, if they show it a
 ### Solution: 
 Bringing together reports for both terrestrial and astronimcal weather, this app would show not only local weather reporting but also astronomical tracking. A one-stop-all for astronomy hobbiest and everyday use alike.
 ### APIs:
-I could use OpenWeatherMap API for all the weather data. There are a few free astronomy APIs I have looked at, but I have not narrowed one down which provides the data I would need.
+I could use Open-Meteo API or OpenWeatherMap API for all the weather data. There are a few free astronomy APIs I have looked at including NASA Open APIs, but I have not narrowed one down which provides all the data I would like.
 
 ## Idea 2: Roadtrip Roulette
 ### Summary: 
