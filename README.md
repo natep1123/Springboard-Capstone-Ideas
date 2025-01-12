@@ -1,7 +1,7 @@
 # Capstone
 
 ## Idea 1: Weather App with Astronomy Companion
-This is my favorite idea. I would ideally like to work with weather, astronomy, and/or map APIs.
+This is my favorite idea. I would like to work with weather, astronomy, and/or map APIs.
 ### Summary:
 App with one-page weather-app-style display of reports for the user's local weather and also some astronomical data reports. Features could include: live local weather status and forecast, moon phase tracking, cloud coverage report, constellation report with star visibility rating and reports of upcoming astronomical events like eclipses and meteor showers.
 ### Problem: 
