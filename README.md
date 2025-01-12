@@ -1,4 +1,4 @@
-# Capstone
+# Capstone Step One: Project Ideas
 
 ## Idea 1: Weather App with Astronomy Companion
 This is my favorite idea. I would like to work with weather, astronomy, and/or map APIs.
