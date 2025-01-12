@@ -5,7 +5,7 @@ This is my favorite idea. I would ideally like to work with weather, astronomy, 
 ### Summary:
 App with one-page weather-app-style display of reports for the user's local weather and also some astronomical data reports. Features could include: live local weather status and forecast, moon phase tracking, cloud coverage report, constellation report with star visibility rating and reports of upcoming astronomical events like eclipses and meteor showers.
 ### Problem: 
-For those with passion for astronomy, a standard weather app is not enough. They lack certain features which would be 
+Weather apps tend to make astronomical data a second priority, if they show it at all, which can make it a hassle to plan for stargazing. Weatehr apps also lack certain astronomical features that would be convenient for those who make a obby of enjoying the night sky.
 ### Solution: 
 Bringing together reports for both terrestrial and astronimcal weather, this app would show not only local weather reporting but also astronomical tracking. A one-stop-all for astronomy hobbiest and everyday use alike.
 ### APIs:
