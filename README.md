@@ -1,4 +1,5 @@
 # Capstone Step One: Project Ideas
+_Collecting and refining ideas while I finish Springboard curriculum, then I will complete the full project in its entirety._
 
 ## Idea 1: Weather App with Astronomy Companion
 This is my favorite idea. I would like to work with weather, astronomy, and/or map APIs.
