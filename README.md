@@ -2,6 +2,8 @@
 
 _Ideas pool for my full-stack web development capstone project using MERN stack (MongoDB, Express.js, React.js, Node.js)._
 
+Navigate to the `Ideas` directory for more details about each project.
+
 ---
 
 ## 1: Trail Incident Reporter
