@@ -1,6 +1,6 @@
-# Ideas for Full-Stack Web-Development Capstone Project using MERN Stack
+# Capstone Project Ideas
 
-_Collecting and refining ideas while I finish Springboard curriculum, then I will complete the full project in its entirety._
+_Ideas pool for my full-stack web development capstone project using MERN stack (MongoDB, Express.js, React.js, Node.js)._
 
 ---
 
