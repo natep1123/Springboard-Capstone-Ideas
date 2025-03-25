@@ -12,8 +12,8 @@ _A unified university platform for textbook trading, dorm item swaps, and study 
 
 ### Overview
 
-- **Purpose**: Combine textbook swaps, furniture trading, and skill exchanges into one student-focused platform with smart matching.
-- **Key Features**: Unified listings (books/items/skills), .edu authentication, location tags, and multi-type matching.
+- **Purpose**: Combine textbook swaps and dorm-essentials trading into one student-focused platform with smart matching.
+- **Key Features**: Unified listings (books/items), .edu authentication, location tags, and multi-type matching.
 
 ---
 
