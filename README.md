@@ -2,56 +2,18 @@
 
 _Ideas pool for my full-stack web development capstone project using MERN stack (MongoDB, Express.js, React.js, Node.js)._
 
-Navigate to the `Ideas` directory for more details about each project.
+## 1: Writer's Portal
+_Get AI-generated daily writing prompts tailored to user interests. Write and save them in the built-in text editor. Receive AI-generated feedback._
 
----
+**Core Features:**
+- Daily writing challenges
+- Built-in text editor to write and save work
+- AI feedback
 
-## 1: Campus Exchange Hub
+## 2. Dog Health Tracker with AI Vet Assistance
+_Store dog profiles to track their wght, food consumption, vaccinations, vet visits, and more. Chat with the integrated AI vet assistant to receive advice regarding symptom severity._
 
-_A unified university platform for textbook trading, dorm item swaps, and study buddy matching, all with campus-specific verification and location-based meetups._
-
-### Overview
-
-- **Purpose**: Combine textbook swaps and dorm-essentials trading into one student-focused platform with smart matching.
-- **Key Features**: Unified listings (books/items), .edu authentication, location tags, and multi-type matching.
-
----
-
-## 2: Campus Book Swap
-
-_A peer-to-peer textbook trading platform where students can list books they own and books they want, then get matched with nearby users who have compatible swaps._
-
-### Overview
-
-- **Purpose**: Enable students to trade textbooks by matching wishlists with other users' available books within the same school/radius.
-- **Key Features**: User auth, book listings with photos, location-based matching.
-
----
-
-## 3: Trail Incident Reporter
-
-_A full-stack MERN web app for park rangers, hikers, and managers to report and track trail incidents (e.g., fallen trees, wildlife sightings)._
-
-### Overview
-
-- **Purpose**: Enable users to report incidents with locations, view them on a map, and browse a list, even in remote areas with spotty service.
-
----
-
-## 4. Dream Journal Analyzer
-
-_A full-stack MERN web app for users to log dreams, analyze their mood and themes, and reflect on patterns over time._
-
-### Overview
-
-- **Purpose**: Enable users to record dreams, receive simple AI-driven analysis (mood, themes), and visualize trends.
-
----
-
-## 5. ASCII Art Gallery
-
-_A full-stack MERN web app for users to create, share, and rate ASCII art, celebrating retro creativity with a community focus._
-
-### Overview
-
-- **Purpose**: Enable users to craft ASCII art, display it in a gallery, and engage through ratings and comments.
+**Core Features:**
+- Create dog profiles to track health data for your pet
+- AI vet assistant to discuss symptoms related to your pet and offer advice in a severity rating (RED/YELLOW/GREEN)
+- Red = vet ER immediately / Yellow = schedule a vet visit / Green = monitor at home
