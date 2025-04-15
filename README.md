@@ -34,3 +34,9 @@ _Get AI-generated daily writing prompts tailored to user interests. Write and sa
 
 ## 4. BounceBack
 _Single-player twist on classic Pong game._
+
+**Core Features:**
+- Start Screen animation
+- Game play (bounce ball between paddles to score points, game over when ball passes a paddle)
+- Game over screen to display user high scores and most recent game score
+- Leaderboard page to display all-time high scores across users
