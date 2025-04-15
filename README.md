@@ -1,6 +1,6 @@
 # Capstone Project Ideas
 
-_Ideas pool for my full-stack web development capstone project using MERN stack (MongoDB, Express.js, React.js, Node.js)._
+_Ideas pool for my full-stack web development capstone project using MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js._
 
 ## 1: Writer's Portal
 _Get AI-generated daily writing prompts tailored to user interests. Write and save them in the built-in text editor. Receive AI-generated feedback._
