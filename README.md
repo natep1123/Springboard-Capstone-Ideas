@@ -11,8 +11,8 @@ _Social app for creating/sharing short stories and poems to get real feedback fr
 - Comment system for line-specific feedback
 - User profiles to display created works
 - Stretch goals:
--- 1. AI-generated daily writing prompts tailored to user goals and their personal writing history
--- 2. AI feedback for writer's work
+- 1. AI-generated daily writing prompts tailored to user goals and their personal writing history
+- 2. AI feedback for writer's work
 
 ## 2. Dog Health Tracker with AI Vet Assistance
 _Store dog profiles to track their wght, food consumption, vaccinations, vet visits, and more. Chat with the integrated AI vet assistant to receive advice regarding symptom severity._
