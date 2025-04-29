@@ -40,3 +40,12 @@ _Single-player twist on classic Pong game._
 - Game play (bounce ball between paddles to score points, game over when ball passes a paddle)
 - Game over screen to display user high scores and most recent game score
 - Leaderboard page to display all-time high scores across users
+
+## 5. Street Art Finder
+_A platform to discover and share street art (murals, graffiti, installations) with an interactive map and user-generated content._
+
+**Core Features:**
+- Interactive map with pins for art locations, filters, and pop-ups with photos/details
+- User uploads for adding new art (photos, location, tags)
+- Commenting, liking, and rating art pieces
+- User profiles to track uploads and favorites
