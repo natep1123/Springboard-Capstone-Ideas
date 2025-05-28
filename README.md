@@ -1,12 +1,14 @@
-1. Ecommerce Platform for Gems and Minerals
+# Ideas Pool for Springboard Capstone Project
+
+## 1. Ecommerce Platform for Gems and Minerals
 
 **Notes:** directory website (like yellow pages), (examples: [archery-range.org](archery-range.org), dog-parks.org)
 
-**Summary:**
+### **Summary:**
 
 Ecommerce marketplace for gems and minerals. Etsy-like platform where users can create shops to sell their gems and minerals, discuss mining/rockhounding in forums and more. Users can bring their rock businesses to this one-stop platform to expand their reach.
 
-**Key Features:**
+### **Key Features:**
 
 1. User Shops
 
@@ -16,17 +18,17 @@ Ecommerce marketplace for gems and minerals. Etsy-like platform where users can 
 
 - Shops contain blog section for posting
 
-- Product Search
+2. Product Search
 
 - Filters like: mineral type, price, origin, size, use
 
-- Auctions
+3. Auctions
 
 - Traditional Online Auctions: set starting bid and duration; buyers bid with outbid notifications.
 
 - Livestream Auctions: Shops can host real-time video auctions with live bidding and chat.
 
-- Community & Education
+4. Community & Education
 
 - Forums for discussing gems/minerals, rockhounding, sourcing, ethics, etc.
 
@@ -34,7 +36,7 @@ Ecommerce marketplace for gems and minerals. Etsy-like platform where users can 
 
 - Potentially connect to [mindat.org](mindat.org) API (requires special permission)
 
-**User Flow:**
+### **User Flow:**
 
 1. **Onboarding**: User downloads app or visits website, signs up (email/password or social login), sets profile (name, optional seller/buyer role).
 
@@ -60,54 +62,39 @@ Ecommerce marketplace for gems and minerals. Etsy-like platform where users can 
 
 12. **Profile Management**: View purchase/sale history, manage shop listings, track bids, update profile, or manage blog posts.
 
-2. OnTrail
+## 2. OnTrail
 
-**Summary:**
+### **Summary:**
 
 A journal-first app for outdoor enthusiasts to log adventures with timestamped updates, photos, and gear tracking. Optional "AdventureSync" safety feature shares real-time updates with an emergency contact, aiding rescue efforts if needed. Combines personal reflection with safety for hikers, campers, and adventurers.
 
-**Key Features:**
+### **Key Features:**
 
-1. Adventure Logging
-
-- Create time-stamped logs for outdoor activities (e.g., hiking, camping).
-
-- Add updates with text (terrain, personal notes) and optional photos.
-
+1. Adventure Logging  
+- Create time-stamped logs for outdoor activities (e.g., hiking, camping).  
+- Add updates with text (terrain, personal notes) and optional photos.  
 - Log start/end points, expected return time, activity type and gear taken.
 
-- Gear Tracking
-
-- Centralized storage for user gear (e.g., boots, backpack, tent).
-
-- Optional gear selection when starting a new adventure log.
-
+2. Gear Tracking  
+- Centralized storage for user gear (e.g., boots, backpack, tent).  
+- Optional gear selection when starting a new adventure log.  
 - Track gear usage across adventures for personal organization.
 
-- AdventureSync Safety Option
-
-- Optional prompt at adventure start: enable real-time updates to an emergency contact.
-
-- Shares log details (location, timestamps, gear, notes) with contact.
-
+3. AdventureSync Safety Option  
+- Optional prompt at adventure start: enable real-time updates to an emergency contact.  
+- Shares log details (location, timestamps, gear, notes) with contact.  
 - Enhances safety by providing rescue teams with critical info (e.g., last known location, resources).
 
-- Journal-First Focus
-
-- Narrative logging for personal reflection or sharing (e.g., terrain challenges, wildlife sightings).
-
-- Multimedia support (photos and potential video uploads).
-
-
-- Weather Tracking (OpenWeatherMap API)
-
+4. Journal-First Focus  
+- Narrative logging for personal reflection or sharing (e.g., terrain challenges, wildlife sightings).  
+- Multimedia support (photos and potential video uploads). 
+ 
+5. Weather Tracking (OpenWeatherMap API)
 - Log basic current weather (temperature, humidity) with each update
-
 - Display forecasts (hourly and daily) for planning
-
 - Severe weather warnings
 
-**Potential Enhancements:** 
+### **Potential Enhancements:** 
 
 - Log summarization with AI in a neat format for easy social-media posting
 
@@ -117,7 +104,7 @@ A journal-first app for outdoor enthusiasts to log adventures with timestamped u
 
 - Community features (e.g., share tips, connect with other adventurers).
 
-**User Flow:**
+### **User Flow:**
 
 - **Onboarding:** User downloads app, signs up (email/password or social login), sets profile (name, emergency contact).  
 
@@ -137,11 +124,11 @@ A journal-first app for outdoor enthusiasts to log adventures with timestamped u
 
 ## 3. Card-io
 
-**Summary:**
+### **Summary:**
 
 A gamified fitness web app that delivers randomized bodyweight workout challenges using a 52-card deck. Each suit maps to a muscle group (push, pull, legs, core), with consistent, hardcoded exercises for progress tracking and shuffled cards for randomization. Users can scale difficulty and monitor stats, with future custom workout creation.
 
-**Key Features:**
+### **Key Features:**
 
 1. Workout Challenges
 
@@ -151,29 +138,29 @@ A gamified fitness web app that delivers randomized bodyweight workout challenge
 
 - Track reps, time, and skips in a summary.
 
-- Card Drawing
+2. Card Drawing
 
 - Fetch and shuffle decks via Deck of Cards API, stored in sessionStorage.
 
 - Draw cards to reveal exercises, with skip/tap-out options.
 
-- Custom Workouts (Future)
+3. Custom Workouts (Future)
 
 - Allow users to input custom exercises, reps, and suit assignments.
 
 - Potential AI integration (e.g., xAI Grok API) for tailored workout generation.
 
-- Stats Tracking
+4. Stats Tracking
 
 - Display workout metrics (reps, time, skips) in a summary view.
 
 - Persist session data via sessionStorage for continuity.
 
-- About Page
+5. About Page
 
 - Tabbed UI (Original, Custom) explaining workout modes and challenge details.
 
-**User Flow:**
+### **User Flow:**
 
 1. **Onboarding:** User visits website, views homepage with Start Workout or About options.
 
