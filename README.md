@@ -11,29 +11,20 @@ Ecommerce marketplace for gems and minerals. Etsy-like platform where users can 
 ### **Key Features:**
 
 1. User Shops
-
 - Create customizable shops
-
 - Product listings
-
 - Shops contain blog section for posting
 
 2. Product Search
-
 - Filters like: mineral type, price, origin, size, use
 
 3. Auctions
-
 - Traditional Online Auctions: set starting bid and duration; buyers bid with outbid notifications.
-
 - Livestream Auctions: Shops can host real-time video auctions with live bidding and chat.
 
 4. Community & Education
-
 - Forums for discussing gems/minerals, rockhounding, sourcing, ethics, etc.
-
 - Learning hub with articles, videos, tips for buyers and sellers (e.g., mineral grading, spotting fakes).
-
 - Potentially connect to [mindat.org](mindat.org) API (requires special permission)
 
 ### **User Flow:**
